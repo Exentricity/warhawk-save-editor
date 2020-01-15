@@ -1,0 +1,9 @@
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\bin\Debug\HexApp.exe.config
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\bin\Debug\HexApp.exe
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\bin\Debug\HexApp.pdb
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\obj\Debug\HexApp.csprojAssemblyReference.cache
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\obj\Debug\HexApp.Form1.resources
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\obj\Debug\HexApp.Properties.Resources.resources
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\obj\Debug\HexApp.csproj.GenerateResource.cache
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\obj\Debug\HexApp.exe
+D:\Visual_Studio\Projects\January 2020\HexApp\HexApp\obj\Debug\HexApp.pdb
